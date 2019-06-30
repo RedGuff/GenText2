@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<choice>
+	<option>is running<option/>
+	<option>is sleeping<option/>
+	<option>is walking<option/>
+</choice>

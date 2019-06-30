@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<?repeat  min = 0 max = 1?> 
+		<?include name = "text_adverbial1.xml"?>
+	</repeat> 
+
+<?include name = "text_subject.xml"?>
+	<?repeat  min = 0 max = 1?> 
+		<?include name = "text_adverbial2.xml"?>
+	</repeat> 
+<?include name = "text_verb.xml"?>
+	<?repeat  min = 0 max = 1?> 
+		<?include name = "text_adverbial3.xml"?>
+	</repeat> 
+<?include name = "text_final_punctuation.xml"?>

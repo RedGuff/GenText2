@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<?repeat  min = 3 max = 6?> 
+		<?include name = "text_sentence.xml"?>
+	</repeat>
+	<span>\n</span>
